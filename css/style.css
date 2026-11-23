@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0;
+    padding: 0;
+} 
+
+
+
+
+
+
+
+footer{
+    background-color: #1D1D1D;
+    height: 1121px;
+}
+
+.container{
+    width: 1688px;
+    margin: 0 auto;
+}
+
+.slite1-flex{
+    display: flex;
+    padding-top: 140px;
+    gap: 502px;
+}
+
+.slite1-flex >h1{
+    margin: 0;
+    padding: 0;
+    font-size: 100px;
+    font-weight: 600;
+    color: white;
+    width: 1006px;
+}
+
+.slite1-flex .lets{
+    color: #D62B2C;
+}
+
+.slite1-flex .goods{
+    color: #D62B2C;
+}
+
+.rightlogo{
+    padding-top: 40px;
+}
+
+
+/* site 2st */
+
+.site2-flex{
+    display: flex;
+}
